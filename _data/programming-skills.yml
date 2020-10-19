@@ -1,0 +1,27 @@
+- name: HTML5/CSS3
+  percentage: 90
+  color: danger
+
+- name: Angular
+  percentage: 80
+  color: warning
+
+- name: JavaScript
+  percentage: 70
+  color: success
+
+- name: React JS
+  percentage: 60
+  color: dark
+
+- name: NodeJS, ExpressJS
+  percentage: 60
+  color: secondary
+
+- name: Core Java
+  percentage: 70
+  color: success
+
+- name: Bootstrap framework
+  percentage: 70
+  color: info

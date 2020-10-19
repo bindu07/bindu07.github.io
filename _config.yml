@@ -1,0 +1,73 @@
+### Site Settings ###
+title: Bindu Priya
+description: >-
+  I turn coffee :coffee: into code,
+  use tabs over spaces
+  and never broke production.
+baseurl: ""
+repository: bindu07/bindu07.github.io
+remote_theme: YoussefRaafatNasry/portfolYOU
+
+### Plugins ###
+plugins:
+  - jemoji
+
+### Navbar Settings ###
+nav_exclude: # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/** # For Documentation Only
+
+### Author Info ###
+author:
+  name: Bindu Priya
+  image: avatar/bindu_avatar.jpg
+  email: bindu.priya07@gmail.com
+  github: bindu07
+  linkedin: bindu-priya
+
+### Posts ###
+permalink: /blog/:title
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements: # For Documentation Only
+    output: true # For Documentation Only
+
+### Disqus ###
+disqus: your-short-name-disqus # Your website Shortname on disqus
+
+### Analytics ###
+analytics:
+  enabled: false # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope: # For Documentation Only
+      path: "" # For Documentation Only
+      type: "elements" # For Documentation Only
+    values: # For Documentation Only
+      layout: "element" # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

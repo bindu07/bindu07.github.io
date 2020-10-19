@@ -1,0 +1,23 @@
+- name: Ionic Framework
+  percentage: 80
+  color: warning
+
+- name: Android Studio
+  percentage: 70
+  color: success
+
+- name: Git & Github
+  percentage: 90
+  color: danger
+
+- name: Agile methodology
+  percentage: 80
+  color:
+
+- name: TDD<br>(Test-driven development)
+  percentage: 70
+  color: dark
+
+- name: Continuous Integration<br>(Circle CI)
+  percentage: 70
+  color:
