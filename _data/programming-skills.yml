@@ -5,6 +5,10 @@
 - name: Angular
   percentage: 80
   color: warning
+  
+- name: Typescript
+  percentage: 80
+  color: warning
 
 - name: JavaScript
   percentage: 70
