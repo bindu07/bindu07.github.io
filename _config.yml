@@ -6,7 +6,6 @@ description: >-
   and never broke production.
 baseurl: ""
 repository: bindu07/bindu07.github.io
-remote_theme: YoussefRaafatNasry/portfolYOU
 
 ### Plugins ###
 plugins:
