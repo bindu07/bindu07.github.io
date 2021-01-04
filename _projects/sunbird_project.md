@@ -1,6 +1,6 @@
 ---
 name: Sunbird Project
-tools: [Angular, Ionic framework, TypeScript]
+tools: [Angular, Ionic framework, TypeScript, Android, Cordova, Android Studio, HTML, CSS, Components]
 image: /assets/img/sunbird.png
 description: Sunbird EDU is an opensource project for education in India.
 ---
