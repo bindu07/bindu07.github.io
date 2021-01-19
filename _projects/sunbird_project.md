@@ -1,6 +1,17 @@
 ---
 name: Sunbird Project
-tools: [Angular, Ionic framework, TypeScript, Android, Cordova, Android Studio, HTML, CSS, Components]
+tools:
+  [
+    Angular,
+    Ionic framework,
+    TypeScript,
+    Android,
+    Cordova,
+    Android Studio,
+    HTML,
+    CSS,
+    Components,
+  ]
 image: /assets/img/sunbird.png
 description: Sunbird EDU is an opensource project for education in India.
 ---
@@ -33,7 +44,7 @@ Implemented observables and services, many other angular concepts in the project
 
 Sharing some screenshots of the application where I worked on developing the wireframes using Ionic Framework,HTML, CSS and SCSS.
 
-![diksha_1](/assets/img/diksha_1.png)
+![diksha_1](/assets/img/diksha_1.PNG)
 
 ![diksha_2](/assets/img/diksha_2.png)
 
